@@ -1,0 +1,15 @@
+# Compilados e Executáveis (Binários)
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Arquivos de depuração e diagnósticos do VS Code
+.vscode/
+*.dSYM/
+.DS_Store
+
+# Arquivos temporários e de histórico do terminal
+*.log
+.history/
